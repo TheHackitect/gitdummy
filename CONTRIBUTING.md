@@ -12,3 +12,6 @@ Thank you for your interest in contributing!
 ## Code of Conduct
 
 Please be respectful and constructive in all interactions.
+
+
+<!-- Documentation updated: 2026-02-13 -->
